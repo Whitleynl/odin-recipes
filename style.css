@@ -1,6 +1,23 @@
 
+a:link {
+    font-family: 'Futura', sans-serif';
+}
+
+a:visited {
+    font-family: 'Futura', sans-serif;
+    color: rgb(213, 67, 0);
+}
+ 
+h1{
+    font-family: 'Futura', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 4em;
+    line-height: 1.5em;
+}
+
 p { 
-    color: rgb(229, 73, 30);
+    font-family: 'Futura', sans-serif;
+    color: rgb(255, 255, 255);
     font-size: 1.2em;
     line-height: 1.5em;
 }
@@ -9,3 +26,4 @@ img {
     width: 50%;
     height: auto;
 }
+
